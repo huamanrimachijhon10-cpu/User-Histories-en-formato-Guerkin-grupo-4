@@ -1,4 +1,4 @@
-Feature: Tutorial interactivo inicial
+Feature: Tutorial interactivo inicial:
 
   Como usuario nuevo
   Quiero un tutorial interactivo al abrir la app por primera vez
@@ -19,3 +19,4 @@ Feature: Tutorial interactivo inicial
     When presiona el botón "Comenzar"
     Then el tutorial se cierra
     And el sistema redirige al usuario a la pantalla de registro o inicio de sesión
+
